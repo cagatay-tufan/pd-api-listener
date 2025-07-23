@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cagatays-projects\\PdApiListener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|C:\\cagatays-projects\\PdApiListener\\basic-auth\\basicAuthentication.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|solutionrelative:basic-auth\\basicAuthentication.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|C:\\cagatays-projects\\PdApiListener\\basic-auth\\folderRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|solutionrelative:basic-auth\\folderRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|C:\\cagatays-projects\\PdApiListener\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EE879A8-DAAA-4121-941C-1B7B0D409A88}|PdApiListener.njsproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:85:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "folderRoute.js",
+              "DocumentMoniker": "C:\\cagatays-projects\\PdApiListener\\basic-auth\\folderRoute.js",
+              "RelativeDocumentMoniker": "basic-auth\\folderRoute.js",
+              "ToolTip": "C:\\cagatays-projects\\PdApiListener\\basic-auth\\folderRoute.js",
+              "RelativeToolTip": "basic-auth\\folderRoute.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-08T06:38:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\cagatays-projects\\PdApiListener\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\cagatays-projects\\PdApiListener\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T06:38:26.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "basicAuthentication.js",
+              "DocumentMoniker": "C:\\cagatays-projects\\PdApiListener\\basic-auth\\basicAuthentication.js",
+              "RelativeDocumentMoniker": "basic-auth\\basicAuthentication.js",
+              "ToolTip": "C:\\cagatays-projects\\PdApiListener\\basic-auth\\basicAuthentication.js",
+              "RelativeToolTip": "basic-auth\\basicAuthentication.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-08T06:38:22.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

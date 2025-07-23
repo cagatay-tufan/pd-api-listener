@@ -1,0 +1,26 @@
+{
+  "name": "pd-api-listener",
+  "version": "0.0.0",
+  "description": "PdApiListener",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "body-parser": "^2.2.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.3",
+    "path": "^0.12.7",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

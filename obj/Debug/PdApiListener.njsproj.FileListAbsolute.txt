@@ -1,0 +1,3 @@
+C:\cagatays-projects\PdApiListener\obj\Debug\PdApiListener.njsproj.AssemblyReference.cache
+C:\cagatays-projects\PdApiListener\obj\Debug\PdApiListener.njsproj.CoreCompileInputs.cache
+C:\cagatays-projects\PdApiListener\bin\Microsoft.NodejsTools.WebRole.dll
