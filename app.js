@@ -15,7 +15,7 @@ mongoose
         "mongodb+srv://cagatayMongo:1122cTcT@cluster0.gqtj7xa.mongodb.net/pdApiConnection?retryWrites=true&w=majority"
     )
     .then(() => {
-        console.log("Connected to database!");
+        console.log("Connected to database mongo!");
     })
     .catch(() => {
         console.log("Connection failed!");
